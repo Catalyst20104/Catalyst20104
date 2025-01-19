@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/31661bea65c8915a22b291e2442342dba304e8fc9f7ae45bcfb30d9bd9ce18d1/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67)]
+![MasterHead](https://camo.githubusercontent.com/31661bea65c8915a22b291e2442342dba304e8fc9f7ae45bcfb30d9bd9ce18d1/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67)
 <h1 align="center">Hi 👋, I'm Utkarsh Sanjay Salunke</h1>
 <h3 align="center">A Computer Engineering Student from Pune,India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?t=st=1737267048~exp=1737270648~hmac=c8b3844c61f16c387c076837e7df6f5ad451bec9de197d44cce88994ce4dc267&w=740">
