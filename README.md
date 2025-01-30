@@ -28,3 +28,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catalyst20104&show_icons=true&locale=en" alt="catalyst20104" /></p>
+
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catalyst20104&show_icons=true&locale=en&layout=compact" alt="catalyst20104" /></p>
+
